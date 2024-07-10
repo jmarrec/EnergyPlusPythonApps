@@ -1,2 +1,2 @@
 NAME = "energyplus_python_apps"
-VERSION = "24.1-Alpha1"
+VERSION = "24.2-Alpha1"

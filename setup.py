@@ -17,17 +17,17 @@ setup(
     url='https://github.com/Myoldmopar/EnergyPlusPythonApps',
     license='ModifiedBSD',
     install_requires=[
-        'energyplus-launch==3.6.9',
-        'energyplus-ruleset-model==0.5',
-        'energyplus-transition-tools==2.0.8',
-        'energyplus-pet==0.50',
-        'energyplus-idd-idf-utilities==0.88',
-        'energyplus-regressions==2.0.3',
-        'energyplus-api-helpers==0.4',
-        'energyplus-diff-analysis==0.2',
-        'energyplus-version==1.0.0'
-        # 'energyplus-expand-objects==blah',
-        # 'energyplus-epjson-editor==blah',
+        'energyplus-launch>=3.7.2',
+        'energyplus-ruleset-model>=0.5',
+        'energyplus-transition-tools>=2.0.8',
+        'energyplus-pet>=0.62',
+        'energyplus-idd-idf-utilities>=0.88',
+        'energyplus-regressions>=2.0.7',
+        'energyplus-api-helpers>=0.4',
+        'energyplus-diff-analysis>=0.2',
+        'energyplus-version>=1.0.0'
+        # 'energyplus-expand-objects>=blah',
+        # 'energyplus-epjson-editor>=blah',
     ],
     entry_points={
         'console_scripts': [
